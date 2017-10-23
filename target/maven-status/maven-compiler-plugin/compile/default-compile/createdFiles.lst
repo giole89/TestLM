@@ -1,0 +1,5 @@
+org\gio\lmTest\bean\Cart.class
+org\gio\lmTest\enumeration\Tax.class
+org\gio\lmTest\utiity\Receipt.class
+org\gio\lmTest\bean\QuantityProduct.class
+org\gio\lmTest\bean\Product.class
